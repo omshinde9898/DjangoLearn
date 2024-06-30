@@ -1,3 +1,2 @@
 /venv/
-*.zip
-django-netflix-clone-main
+*.pyc
